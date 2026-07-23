@@ -1,0 +1,31 @@
+body{
+    background-image: url("Spalding Releases Final Run of Official NBA Balls _ WERD.jpg" );
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.text{
+    font-size: 40px;
+    font-family: Cambria;
+    font-weight:  bold;
+    color: cyan;
+    background-color: black;
+    border-radius: 15px;
+    padding: -4px;
+    text-align: center;
+}
+.container{
+    font-family: Cambria;
+    font-weight:  bold;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.box{
+    width: 300px;
+    height: 100px;
+    border: 2px solid black;
+    background-color: rgb(83, 83, 218);
+}
